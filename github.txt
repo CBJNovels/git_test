@@ -1,1 +1,2 @@
 Test is sucessfull!
+Hello Github in VsCode!
